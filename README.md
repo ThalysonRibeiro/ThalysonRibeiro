@@ -1,6 +1,6 @@
 
 - 👋 Olá, sou @Rafinha-G3
-- 👀 Estou interessado em aprender programação
+- 👀 Estou interessado em tecnologia e como as coisas funcionam na internet
 - 🌱 Atualmente estou aprendendo, Back-end na Cubos Academy.
 - 💞️ Procuro colaborar em divesos projeto futuramente.
 - 📫 Rafinha.head@gmail.com
