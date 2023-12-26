@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Rafinha-G3
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
+- 👋 Olá, sou @Rafinha-G3
+- 👀 Estou interessado em aprender programação
+- 🌱 Atualmente estou aprendendo, Back-end na Cubos Academy.
+- 💞️ Procuro colaborar em divesos projeto futuramente.
+- 📫 Rafinha.head@gmail.com
 <!---
 Rafinha-G3/Rafinha-G3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
