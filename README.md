@@ -16,7 +16,7 @@
 
 ✒️ Eu gosto de no meu tempo livre [Asistir series, filmes, bike, games e aprender coisas novas];
 
-📚 Lendo: [Periféricos]
+📚 Lendo: [ Periféricos ]
 
 ### Eu já trabalhei com... 🔧 Gastronomia
 
