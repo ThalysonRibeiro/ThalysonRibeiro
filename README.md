@@ -1,4 +1,4 @@
-# Oi, me chamo Thalyson Rafael 👋
+# Oi, me chamo Thalyson Ribeiro 👋
 
 ### Sobre mim
 
