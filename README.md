@@ -19,5 +19,3 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThalysonRibeiro&layout=compact&langs_count=7&theme=midnight-purple"/>
