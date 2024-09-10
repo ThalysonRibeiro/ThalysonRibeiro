@@ -13,3 +13,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 #### **contato:** rafinha.head@gmail.com
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThalysonRibeiro&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThalysonRibeiro&layout=compact)
