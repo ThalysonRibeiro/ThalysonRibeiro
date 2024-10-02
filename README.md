@@ -2,7 +2,9 @@
 
 ### Sobre mim
 
-💻 Estou estudando  Front-End | Back-End
+💻 Estou estudando  Front-End
+<!--💻 Estou estudando  Front-End | Back-End -->
+
 
 ### Eu estou estudando... 🧩
 
