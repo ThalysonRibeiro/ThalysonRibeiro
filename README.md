@@ -6,7 +6,7 @@
 #### **contato:** rafinha.head@gmail.com
 
 ### Sobre mim:
-Sou desenvolvedor front-end com experiência em projetos freelance, onde criei interfaces intuitivas e focadas na experiência do usuário. Tenho uma base em HTML, CSS, JavaScript e frameworks como Tailwindcss. Meu objetivo é contribuir para o desenvolvimento de soluções inovadoras, combinando minhas habilidades de front-end para entregar projetos de alto impacto.
+Sou desenvolvedor full Stack com experiência em projetos freelance, onde criei interfaces intuitivas e focadas na experiência do usuário. Tenho uma base em HTML, CSS, JavaScript e frameworks como Tailwindcss. Meu objetivo é contribuir para o desenvolvimento de soluções inovadoras, combinando minhas habilidades de front-end para entregar projetos de alto impacto.
 
 ### Minha trajetória:
 Antes de me dedicar ao desenvolvimento web, trabalhei na área de gastronomia, onde desenvolvi habilidades como criatividade, atenção aos detalhes e trabalho sob pressão. A experiência em criar soluções rápidas e eficientes no dia a dia de uma cozinha me ajudou a construir uma base sólida para resolver problemas e manter o foco na entrega de qualidade, mesmo em ambientes dinâmicos. Essas competências têm sido fundamentais na minha transição para a tecnologia, permitindo que eu traga uma perspectiva única para o desenvolvimento web, com foco em eficiência, inovação e a criação de experiências de alta qualidade para o usuário
