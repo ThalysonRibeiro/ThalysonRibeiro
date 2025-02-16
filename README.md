@@ -14,7 +14,6 @@ Antes de me dedicar ao desenvolvimento web, trabalhei na área de gastronomia, o
 💻 Estou estudando  Front-End
 <!--💻 Estou estudando  Front-End | Back-End -->
 
-<a href="https://thalyson-ribeiro.vercel.app" target="_blank">Meu portfolio thalyson.dev</a>
 
 ### Habilidades Técnicas 🧩
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
