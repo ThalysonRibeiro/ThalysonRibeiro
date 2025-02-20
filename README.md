@@ -11,7 +11,6 @@ Sou desenvolvedor full Stack com experiência em projetos freelance, onde criei 
 ### Minha trajetória:
 Antes de me dedicar ao desenvolvimento web, trabalhei na área de gastronomia, onde desenvolvi habilidades como criatividade, atenção aos detalhes e trabalho sob pressão. A experiência em criar soluções rápidas e eficientes no dia a dia de uma cozinha me ajudou a construir uma base sólida para resolver problemas e manter o foco na entrega de qualidade, mesmo em ambientes dinâmicos. Essas competências têm sido fundamentais na minha transição para a tecnologia, permitindo que eu traga uma perspectiva única para o desenvolvimento web, com foco em eficiência, inovação e a criação de experiências de alta qualidade para o usuário
 
-💻 Estou estudando  FullStack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
