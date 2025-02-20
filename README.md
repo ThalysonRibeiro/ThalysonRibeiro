@@ -30,8 +30,9 @@ Antes de me dedicar ao desenvolvimento web, trabalhei na área de gastronomia, o
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-<!--![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)-->
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
-
-![](https://github-readme-stats.vercel.app/api?username=ThalysonRibeiro&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThalysonRibeiro&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThalysonRibeiro&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThalysonRibeiro&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</div>
