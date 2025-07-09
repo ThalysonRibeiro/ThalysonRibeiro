@@ -33,6 +33,7 @@ Antes de me dedicar ao desenvolvimento web, trabalhei na área de gastronomia, o
 <!--![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)-->
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThalysonRibeiro&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-<img height="180em" width="350en" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThalysonRibeiro&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+<a href="https://github.com/ThalysonRibeiro">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThalysonRibeiro&layout=compact&langs_count=7&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThalysonRibeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
