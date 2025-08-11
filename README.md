@@ -7,9 +7,11 @@
 
 ## Sobre
 
-Desenvolvedor full stack com background em gastronomia. Foco em criar soluções inovadoras combinando criatividade, atenção aos detalhes e capacidade de trabalhar sob pressão.
+Sou um desenvolvedor Full Stack que trocou o calor da cozinha profissional pelo calor dos servidores 😅. Minha trajetória na gastronomia me ensinou disciplina, agilidade e a importância de entregar qualidade sob pressão — habilidades que agora aplico no desenvolvimento de aplicações web.
 
-**Objetivo:** Contribuir para projetos de alto impacto através de código limpo e experiências excepcionais.
+Pego uma ideia e levo até virar algo que as pessoas realmente possam usar. Entendo o que precisa ser feito, monto passo a passo e entrego algo claro, bonito e fácil de navegar, deixando sempre espaço pra melhorar com o tempo.
+
+Objetivo: Trabalhar em projetos que despertem curiosidade e desafiem minha forma de pensar, onde eu possa transformar ideias em algo útil e significativo para as pessoas. Quero contribuir em cada etapa, desde entender o problema até entregar uma solução que seja simples de usar, confiável e que realmente faça diferença no dia a dia de quem utiliza.
 
 ## Stack
 **Frontend:** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)
