@@ -25,6 +25,6 @@ Objetivo: Trabalhar em projetos que despertem curiosidade e desafiem minha forma
 ## Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ThalysonRibeiro&show_icons=true&include_all_commits=true&count_private=true&border_radius=0&border_color=a600ff5f&bg_color=a600ff00&title_color=A600FF&icon_color=A600FF"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThalysonRibeiro&layout=compact&border_radius=0&border_color=a600ff5f&bg_color=a600ff00&title_color=A600FF&icon_color=A600FF"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ThalysonRibeiro&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThalysonRibeiro&layout=compact&theme=dracula"/>
 </div>
