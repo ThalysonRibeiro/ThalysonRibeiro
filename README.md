@@ -21,10 +21,3 @@ Objetivo: Trabalhar em projetos que despertem curiosidade e desafiem minha forma
 **Database:** ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 **Tools:** ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-
-## Stats
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ThalysonRibeiro&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThalysonRibeiro&layout=compact&theme=dracula"/>
-</div>
